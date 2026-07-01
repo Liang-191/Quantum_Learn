@@ -8,3 +8,6 @@ https://www.bilibili.com/video/BV1oq4y1j7iZ/?share_source=copy_web&vd_source=818
 好处：中文授课，知识点不复杂
 
 坏处：课件上传时间过早，部分内容可能过时
+
+
+# 参考书（repo里面放的就是，有基础后可以参考看看，都是全英文的）
